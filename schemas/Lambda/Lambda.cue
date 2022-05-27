@@ -1,4 +1,4 @@
-package Lamba
+package Lambda
 
 import (
 	"github.com/srehero/cfn/schemas/CloudFormation"
